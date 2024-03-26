@@ -1,6 +1,6 @@
 # Exploring HTTP methods with a Car API
 
-In this project we will create our own Car API, using the HTTP methods **GET**, **POST**, **PUT**, **DELETE**
+In this project we will create our own Car API, using the HTTP methods **GET**, **POST**, **PATCH**, **DELETE**
 
 We will also be working with request parameters and responding with the correct HTTP response status codes.
 
